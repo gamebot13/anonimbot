@@ -1,0 +1,25 @@
+{
+  "name": "anonimchat-clone",
+  "version": "1.0.0",
+  "description": "telegram bot cloning dari anonim chat",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "monk": "^7.3.4",
+    "node-telegram-bot-api": "^0.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onekill0503/anonimchat-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onekill0503/anonimchat-clone/issues"
+  },
+  "homepage": "https://github.com/onekill0503/anonimchat-clone#readme"
+}
