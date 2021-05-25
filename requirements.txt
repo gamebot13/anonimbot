@@ -1,2 +1,2 @@
-discord.js
+node-telegram-bot-api
 mongoose
