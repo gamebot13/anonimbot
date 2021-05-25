@@ -1,1 +1,1 @@
-npm install discord.js
+npm install node-telegram-bot-api
